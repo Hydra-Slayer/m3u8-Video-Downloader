@@ -17,7 +17,7 @@
 
             <TextBlock x:Name="LblUrl" Text="1. Video Link (.m3u8):" FontWeight="SemiBold" Margin="0,0,0,5"/>
             <TextBox x:Name="UrlInput" Height="30" Padding="5" VerticalContentAlignment="Center"
-                     Text="https://v.redd.it/31nf96u4a55g1/HLSPlaylist.m3u8"/>
+                     Text="https://v.redd.it/........./HLSPlaylist.m3u8"/>
 
             <TextBlock x:Name="LblPath" Text="2. Save Location:" FontWeight="SemiBold" Margin="0,15,0,5"/>
             <Grid>
