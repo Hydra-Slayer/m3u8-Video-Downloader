@@ -1,0 +1,11 @@
+# Ignore the build folders
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Ignore the heavy FFmpeg file
+ffmpeg.exe
+ffmpeg
+
+# Ignore User specific files
+*.user
